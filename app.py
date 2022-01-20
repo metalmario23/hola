@@ -1,8 +1,5 @@
 print("hey")
 # comment
 
-
-
-
-if 4 <2:
-    print("yes")
+for i in range(12):
+    print(i)
